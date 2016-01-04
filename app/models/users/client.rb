@@ -1,2 +1,2 @@
-class Users::Client < ActiveRecord::Base
+class Users::Client < User
 end

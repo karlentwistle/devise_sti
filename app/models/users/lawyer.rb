@@ -1,2 +1,2 @@
-class Users::Lawyer < ActiveRecord::Base
+class Users::Lawyer < User
 end
